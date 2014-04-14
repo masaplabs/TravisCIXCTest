@@ -379,6 +379,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TravisCITest/TravisCITest-Prefix.pch";
 				INFOPLIST_FILE = "TravisCITest/TravisCITest-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -392,6 +393,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TravisCITest/TravisCITest-Prefix.pch";
 				INFOPLIST_FILE = "TravisCITest/TravisCITest-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -456,6 +458,7 @@
 				C37D9C8218F7E3420057A7C0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C37D9C8318F7E3420057A7C0 /* Build configuration list for PBXNativeTarget "TravisCITestTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +467,7 @@
 				C37D9C8518F7E3420057A7C0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
