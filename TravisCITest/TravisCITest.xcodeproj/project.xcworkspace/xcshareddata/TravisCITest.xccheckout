@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>34788E2B-961B-4986-90AF-517952120D2A</string>
+	<string>5890362F-4188-49A1-8C8F-517B970DE0D0</string>
 	<key>IDESourceControlProjectName</key>
 	<string>TravisCITest</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>7FBFF407-5E97-4908-8FA2-C1480D707799</key>
-		<string>https://github.com/masaplabs/TravisCITest.git</string>
+		<key>A348D4A3-339D-4E2E-A01A-D4C27E83EC5B</key>
+		<string>https://github.com/masaplabs/TravisCIXCTest.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>TravisCITest/TravisCITest.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>7FBFF407-5E97-4908-8FA2-C1480D707799</key>
+		<key>A348D4A3-339D-4E2E-A01A-D4C27E83EC5B</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/masaplabs/TravisCITest.git</string>
+	<string>https://github.com/masaplabs/TravisCIXCTest.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>7FBFF407-5E97-4908-8FA2-C1480D707799</string>
+	<string>A348D4A3-339D-4E2E-A01A-D4C27E83EC5B</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>7FBFF407-5E97-4908-8FA2-C1480D707799</string>
+			<string>A348D4A3-339D-4E2E-A01A-D4C27E83EC5B</string>
 			<key>IDESourceControlWCCName</key>
-			<string>TravisCITest</string>
+			<string>TravisCIXCTest</string>
 		</dict>
 	</array>
 </dict>
