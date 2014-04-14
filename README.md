@@ -1,4 +1,4 @@
 TravisCIXCTest
 ==============
 
-XCode and XCTest with TravisCITest
+XCode and XCTest with Travis CI
